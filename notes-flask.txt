@@ -24,5 +24,6 @@ Corey Schafer - Flask
 
 5. 
     Bcrypt - password hashing
+    flask-login(manage user session)
     
 
