@@ -1,4 +1,4 @@
 site.db
 notes-flask.txt
-flaskblog/site.db
+./flaskblog/site.db
 __pycache__
